@@ -6,7 +6,7 @@
 - **Total Prompts**: 38
 - **First Prompt**: 6/28/2025, 8:35:14 AM
 - **Last Prompt**: 6/29/2025, 12:19:21 AM
-- **Project Path**: `/Users/alexanderfedin/Projects/NoCode`
+- **Project Path**: `~/Projects/NoCode`
 
 ---
 
@@ -231,7 +231,7 @@ use subtasks for speed
 > 6/28/2025, 9:41:22 AM
 
 ```
-Create 10 corporate innovation team member profiles for Silicon Valley. For each profile, create a separate file in /Users/alexanderfedin/Projects/NoCode/analysis/user-profiles/silicon-valley/corporate-innovation/
+Create 10 corporate innovation team member profiles for Silicon Valley. For each profile, create a separate file in ~/Projects/NoCode/analysis/user-profiles/silicon-valley/corporate-innovation/
 
 Use this format for filenames: profile-{01-10}-{first-name}-{last-name}.md
 
@@ -262,7 +262,7 @@ Ensure they reflect real Silicon Valley corporate innovation challenges like inn
 > 6/28/2025, 9:45:24 AM
 
 ```
-Create 10 consultant/advisor profiles for Silicon Valley. For each profile, create a separate file in /Users/alexanderfedin/Projects/NoCode/analysis/user-profiles/silicon-valley/consultants-advisors/
+Create 10 consultant/advisor profiles for Silicon Valley. For each profile, create a separate file in ~/Projects/NoCode/analysis/user-profiles/silicon-valley/consultants-advisors/
 
 Use this format for filenames: profile-{01-10}-{first-name}-{last-name}.md
 
@@ -295,11 +295,11 @@ Ensure they reflect real Silicon Valley consultant challenges like scaling exper
 ```
 Create 50 user profiles for London across all 5 categories. For each category, create 10 profiles in the appropriate subdirectory:
 
-1. Solo Entrepreneurs: /Users/alexanderfedin/Projects/NoCode/analysis/user-profiles/london/solo-entrepreneurs/
-2. Startup Founders: /Users/alexanderfedin/Projects/NoCode/analysis/user-profiles/london/startup-founders/
-3. Business Students: /Users/alexanderfedin/Projects/NoCode/analysis/user-profiles/london/business-students/
-4. Corporate Innovation: /Users/alexanderfedin/Projects/NoCode/analysis/user-profiles/london/corporate-innovation/
-5. Consultants/Advisors: /Users/alexanderfedin/Projects/NoCode/analysis/user-profiles/london/consultants-advisors/
+1. Solo Entrepreneurs: ~/Projects/NoCode/analysis/user-profiles/london/solo-entrepreneurs/
+2. Startup Founders: ~/Projects/NoCode/analysis/user-profiles/london/startup-founders/
+3. Business Students: ~/Projects/NoCode/analysis/user-profiles/london/business-students/
+4. Corporate Innovation: ~/Projects/NoCode/analysis/user-profiles/london/corporate-innovation/
+5. Consultants/Advisors: ~/Projects/NoCode/analysis/user-profiles/london/consultants-advisors/
 
 Use this format for filenames: profile-{01-10}-{first-name}-{last-name}.md
 
@@ -328,11 +328,11 @@ Ensure diversity in age, gender, backgrounds, and specializations within each ca
 ```
 Create 50 user profiles for Singapore across all 5 categories. For each category, create 10 profiles in the appropriate subdirectory:
 
-1. Solo Entrepreneurs: /Users/alexanderfedin/Projects/NoCode/analysis/user-profiles/singapore/solo-entrepreneurs/
-2. Startup Founders: /Users/alexanderfedin/Projects/NoCode/analysis/user-profiles/singapore/startup-founders/
-3. Business Students: /Users/alexanderfedin/Projects/NoCode/analysis/user-profiles/singapore/business-students/
-4. Corporate Innovation: /Users/alexanderfedin/Projects/NoCode/analysis/user-profiles/singapore/corporate-innovation/
-5. Consultants/Advisors: /Users/alexanderfedin/Projects/NoCode/analysis/user-profiles/singapore/consultants-advisors/
+1. Solo Entrepreneurs: ~/Projects/NoCode/analysis/user-profiles/singapore/solo-entrepreneurs/
+2. Startup Founders: ~/Projects/NoCode/analysis/user-profiles/singapore/startup-founders/
+3. Business Students: ~/Projects/NoCode/analysis/user-profiles/singapore/business-students/
+4. Corporate Innovation: ~/Projects/NoCode/analysis/user-profiles/singapore/corporate-innovation/
+5. Consultants/Advisors: ~/Projects/NoCode/analysis/user-profiles/singapore/consultants-advisors/
 
 Use this format for filenames: profile-{01-10}-{first-name}-{last-name}.md
 
@@ -418,12 +418,12 @@ Add summary in README.md
 > 6/28/2025, 10:20:23 AM
 
 ```
-Read the 10 solo entrepreneur profiles from /Users/alexanderfedin/Projects/NoCode/analysis/user-profiles/silicon-valley/solo-entrepreneurs/ and create simulated survey responses for each one.
+Read the 10 solo entrepreneur profiles from ~/Projects/NoCode/analysis/user-profiles/silicon-valley/solo-entrepreneurs/ and create simulated survey responses for each one.
 
-For each profile, create a survey response file in /Users/alexanderfedin/Projects/NoCode/analysis/survey-responses/solo-entrepreneurs/silicon-valley/ using the filename format: response-{profile-number}-{first-name}-{last-name}.md
+For each profile, create a survey response file in ~/Projects/NoCode/analysis/survey-responses/solo-entrepreneurs/silicon-valley/ using the filename format: response-{profile-number}-{first-name}-{last-name}.md
 
 Base the responses on:
-1. The survey questions from /Users/alexanderfedin/Projects/NoCode/analysis/customer-surveys/by-segment/solo-entrepreneurs/survey-questions.md
+1. The survey questions from ~/Projects/NoCode/analysis/customer-surveys/by-segment/solo-entrepreneurs/survey-questions.md
 2. Each person's specific profile characteristics (personality, business type, pain points, etc.)
 
 Make the responses realistic and consistent with each profile's:
@@ -457,12 +457,12 @@ Add summary in README.md
 > 6/28/2025, 10:33:17 AM
 
 ```
-Read the 10 business student profiles from /Users/alexanderfedin/Projects/NoCode/analysis/user-profiles/silicon-valley/business-students/ and create simulated survey responses for each one.
+Read the 10 business student profiles from ~/Projects/NoCode/analysis/user-profiles/silicon-valley/business-students/ and create simulated survey responses for each one.
 
-For each profile, create a survey response file in /Users/alexanderfedin/Projects/NoCode/analysis/survey-responses/business-students/silicon-valley/ using the filename format: response-{profile-number}-{first-name}-{last-name}.md
+For each profile, create a survey response file in ~/Projects/NoCode/analysis/survey-responses/business-students/silicon-valley/ using the filename format: response-{profile-number}-{first-name}-{last-name}.md
 
 Base the responses on:
-1. The survey questions from /Users/alexanderfedin/Projects/NoCode/analysis/customer-surveys/by-segment/business-students/survey-questions.md
+1. The survey questions from ~/Projects/NoCode/analysis/customer-surveys/by-segment/business-students/survey-questions.md
 2. Each student's specific profile characteristics
 
 Make the responses realistic considering:
@@ -483,12 +483,12 @@ Focus on their non-technical nature - these are business students, not engineeri
 > 6/28/2025, 10:40:00 AM
 
 ```
-Read the 10 consultant/advisor profiles from /Users/alexanderfedin/Projects/NoCode/analysis/user-profiles/silicon-valley/consultants-advisors/ and create simulated survey responses for each one.
+Read the 10 consultant/advisor profiles from ~/Projects/NoCode/analysis/user-profiles/silicon-valley/consultants-advisors/ and create simulated survey responses for each one.
 
-For each profile, create a survey response file in /Users/alexanderfedin/Projects/NoCode/analysis/survey-responses/consultants-advisors/silicon-valley/ using the filename format: response-{profile-number}-{first-name}-{last-name}.md
+For each profile, create a survey response file in ~/Projects/NoCode/analysis/survey-responses/consultants-advisors/silicon-valley/ using the filename format: response-{profile-number}-{first-name}-{last-name}.md
 
 Base the responses on:
-1. The survey questions from /Users/alexanderfedin/Projects/NoCode/analysis/customer-surveys/by-segment/consultants-advisors/survey-questions.md
+1. The survey questions from ~/Projects/NoCode/analysis/customer-surveys/by-segment/consultants-advisors/survey-questions.md
 2. Each consultant's specific profile characteristics
 
 Make the responses realistic considering:
@@ -511,8 +511,8 @@ Focus on their business/strategic orientation rather than technical implementati
 ```
 Create two comprehensive README.md files summarizing the survey responses:
 
-1. /Users/alexanderfedin/Projects/NoCode/analysis/survey-responses/business-students/silicon-valley/README.md
-2. /Users/alexanderfedin/Projects/NoCode/analysis/survey-responses/consultants-advisors/silicon-valley/README.md
+1. ~/Projects/NoCode/analysis/survey-responses/business-students/silicon-valley/README.md
+2. ~/Projects/NoCode/analysis/survey-responses/consultants-advisors/silicon-valley/README.md
 
 Each README should include:
 - Overview of the respondent category
